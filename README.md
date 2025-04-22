@@ -36,7 +36,7 @@ Execute the program using runserver command.
         <center><img src="https://saveetha.ac.in/wp-content/uploads/2024/03/sec-logo-01as.png"width="500px">  </img>
     
     <h1>TIME TABLE</h1>
-    <h2>ABHEEK A (24001418)</h2>
+    <h2>DINESH R(24900440</h2>
     <table border="10px" style="text-align: center;">
         <tr>
             <tr>
